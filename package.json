@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "reveal-md -w ./src/presentation.md"
+    "start": "reveal-md -w ./src/presentation.md",
+    "build": " reveal-md ./src/presentation.md --static docs"
   },
   "repository": {
     "type": "git",
