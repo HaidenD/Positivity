@@ -4,7 +4,8 @@
   "description": "Achieving a positive workplace on a high performance team.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "reveal-md ./src/presentation.md"
   },
   "repository": {
     "type": "git",
