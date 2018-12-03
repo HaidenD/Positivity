@@ -4,6 +4,7 @@ theme: blood
 ---
 
 
+<!-- .slide: data-background-video="../video/officeloop.mp4" data-background-video-loop="true" -->
 ### High Performing teams
 #### by Haiden Deaton
 
@@ -13,36 +14,36 @@ theme: blood
 
 __**What are they?**__
 
---
+-v-
 
 # Team?
 
-> A group of people aligned with a common goal.
-2 - 10 people
+> A group of 2 - 10 people aligned with a common goal.
+
 
 Note: 
 could be a project, 
 it could be an organization.
 we are all many projects
 
---
+-v-
 
 Teams are highly interdependent 
 * We:
-    * plan work, 
-    * solve problems, 
-    * make decisions,
-    * review progress in service of a specific project.
+    * plan work 
+    * solve problems
+    * make decisions
+    * review progress in service of a specific project
 
 > Team members need to work with one another to accomplish work on a specific project.
 
---
+-v-
 
 ### High-Performance Teams?
 
 > A team that is objectively better than other teams doing similar work.
 
---
+-v-
 
 Objectively Better??
 
@@ -60,28 +61,28 @@ Objectively Better??
 > Who is on a team matters less than how the team members interact, structure their work, and view their contributions.  — JULIA ROZOVSKY, 
 ANALYST, @ GOOGLE
 
--- 
+-v- 
 
 5 Key Team Dynamics @ Google
 
 * (1) Psychology Safety 
-    * Can we take risks on this team without feelings insecure or embarrassed? 
+    * Can we take risks on this team without feeling insecure or embarrassed? 
 * (2) Dependability 
-    * Can we count on each other to do high quality work thats on time?
+    * Can we count on each other to do high quality work that's on time?
 Note:
 * Do all team members feel comfortable brainstorming in front of each other?
 * Do all team members feel they can discuss mistakes and learn from them, or will they feel shunned?
 * Do team members feel as if others try to undermine them deliberately?
 * How is conflict currently managed? How might it be better managed?
--- 
+-v- 
 
 * (3) Structure & Clarity
     * Are goals, roles, and execution plans on our team clear?
 * (4) Meaning of Work
-    * Are we working on somethings that personally important for each of us?
-* (5) Impact of work
+    * Are we working on somethings that is personally important for each of us?
+* (5) Impact of Work
     * Do we fundamentally believe that the work we're doing matters?
---
+-v-
 
 # Exercise 
 https://www.randomlists.com/name-picker
@@ -97,31 +98,31 @@ Note:
 # Positivity
 Why does it matter?
 
---
+-v-
 ### The Realization 
 
 > Some of the top reasons why employees quit their jobs are because of their relationships with their boss or with coworkers.
 
---
+-v-
 
 You cannot have a high performance team without positivity.
 
---
+-v-
 
-1. communication effectively
+1. communicate effectively
 2. feedback
     * positive - sharing something that a member on your team did well.
-    * negative - giving constructive feedback on correcting technicality.
+    * negative - giving feedback on correcting technicality.
 3. listen to others
 4. motivation 
 
---
+-v-
 
 Lead with Empathy.
 
 Understand and listen to the people that you work with.
 
---
+-v-
 
 Their success is your success.
 
@@ -131,9 +132,9 @@ Their success is your success.
 
 * Invite a team member who is not in the "in crowd" and invite them to a team activity.
 * Have more empathy in your next disagreement.
-* Find opportunity to praise another team members contributions in front of people/team members.
+* Find opportunity to praise another team member's contributions in front of people/team members.
 
---
+-v-
 
 * Be supportive
 * Listen with empathy
@@ -142,7 +143,7 @@ Their success is your success.
 
 ---
 
-things i used
+### Things I Things
 
 * https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
 * https://medium.com/@rkasper/google-says-psychological-safety-is-the-key-to-high-performance-cead0a64edda
